@@ -1,0 +1,35 @@
+.paymentDescription,.makePayment{
+	position: absolute !important; 
+	  z-index: 1000;
+	 width: 70%;
+	  height: 85vh; 
+	  overflow: auto; 
+	  left: 20%; top: 10%;
+	   background-color:#c3c6ca !important;
+}
+
+.paymentDescription .closeDrop,.makePayment .closeDrop{
+	font-size: 2rem;
+	position: absolute; 
+	right:3%;
+	text-decoration: none;
+}
+
+#datatable_wrapper div:first-child{
+	margin-bottom: 6px !important;
+}
+body{
+	font-size: 90% !important;
+}
+
+.actions a button{
+	margin-bottom: 5px !important;
+}
+
+@media only screen and (max-width: 670px){
+
+		#datatable_wrapper div:first-child div{
+			width: auto !important;
+		}
+
+}

@@ -1,0 +1,7 @@
+website  : aloktc.in 
+
+https://auth-db605.hstgr.io/index.php?db=u282558932_donation_track
+
+Database : u282558932_donation_track
+Username : u282558932_track 
+Password : Swami@2022
